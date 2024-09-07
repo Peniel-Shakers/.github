@@ -1,16 +1,23 @@
 # 👋 Hey there, I'm Peniel Shakers!
 **Software Engineer. Navigating the shadows of the web, crafting echoes in the void.**
 
+#  Languages 
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+
+#  Frameworks 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+
+# CI/CD
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
+![GitHub Actions](https://img.shields.io/badge/Tool-GitHub%20Actions-informational?style=flat&logo=github-actions&color=2088FF)
+
+# OS
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
 With a deep passion for **Customer Experience, Complex ideas, Challenges,** and **AI-driven technologies**, I specialize in turning complex challenges into scalable, innovative solutions.
