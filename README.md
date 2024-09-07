@@ -9,9 +9,11 @@
 #  Frameworks 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
+![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&color=06B6D4)
 
 # CI/CD
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&color=2496ED)
@@ -20,7 +22,7 @@
 # OS
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-With a deep passion for **Customer Experience, Complex ideas, Challenges,** and **AI-driven technologies**, I specialize in turning complex challenges into scalable, innovative solutions.
+With a deep passion for **Customer Experience, Complex ideas, Best practices,** I specialize in turning complex challenges into scalable, innovative solutions.
 
 - 🔭 Currently working on top-secret projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
